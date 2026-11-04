@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Office Viewer</string>
+    <string name="open_file">Open file</string>
+    <string name="recent_files">Recent files</string>
+    <string name="no_recent_files">Files you open will appear here.</string>
+    <string name="clear_recent">Clear list</string>
+    <string name="remove">Remove</string>
+    <string name="supported_formats">Supported formats</string>
+    <string name="supported_formats_list">Word: DOCX, DOCM, DOTX, RTF\nExcel: XLSX, XLSM, XLTX, CSV, TSV\nPowerPoint: PPTX, PPSX, POTX\nText: TXT</string>
+    <string name="offline_note">Documents are opened on your device. Nothing is uploaded.</string>
+    <string name="back">Back</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search in document</string>
+    <string name="search_next">Next match</string>
+    <string name="search_previous">Previous match</string>
+    <string name="close_search">Close search</string>
+    <string name="match_count">%1$d / %2$d</string>
+    <string name="no_matches">No matches</string>
+    <string name="share">Share</string>
+    <string name="print">Print / Save as PDF</string>
+    <string name="more">More options</string>
+    <string name="open_with">Open with another app</string>
+    <string name="loading">Opening document…</string>
+    <string name="error_open">The file could not be read: %1$s</string>
+    <string name="file_too_large">This file is very large (%1$s). Opening it may be slow.</string>
+    <string name="pages_count">%1$d pages</string>
+    <string name="sheets_count">%1$d sheets</string>
+    <string name="slides_count">%1$d slides</string>
+    <string name="no_app_to_open">No app found to handle this.</string>
+
+    <!-- Strings shown inside rendered documents -->
+    <string name="render_unsupported_title">This format is not supported yet</string>
+    <string name="render_legacy_message">Legacy binary Office files (.doc, .xls, .ppt) will be supported in a future version. Please save the file in the modern format (.docx, .xlsx, .pptx) and try again.</string>
+    <string name="render_unknown_message">The file type could not be recognised.</string>
+    <string name="render_error_title">The document could not be opened</string>
+    <string name="render_image">Image</string>
+    <string name="render_unsupported_image">Image (format not supported)</string>
+    <string name="render_chart">Chart</string>
+    <string name="render_sheet_truncated">Only the first %1$d rows and %2$d columns are shown.</string>
+    <string name="render_slide">Slide</string>
+    <string name="render_empty">The document is empty.</string>
+</resources>

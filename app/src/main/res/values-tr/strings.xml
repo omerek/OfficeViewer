@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ofis Görüntüleyici</string>
+    <string name="open_file">Dosya aç</string>
+    <string name="recent_files">Son dosyalar</string>
+    <string name="no_recent_files">Açtığınız dosyalar burada görünecek.</string>
+    <string name="clear_recent">Listeyi temizle</string>
+    <string name="remove">Kaldır</string>
+    <string name="supported_formats">Desteklenen biçimler</string>
+    <string name="supported_formats_list">Word: DOCX, DOCM, DOTX, RTF\nExcel: XLSX, XLSM, XLTX, CSV, TSV\nPowerPoint: PPTX, PPSX, POTX\nMetin: TXT</string>
+    <string name="offline_note">Belgeler cihazınızda açılır. Hiçbir şey yüklenmez.</string>
+    <string name="back">Geri</string>
+    <string name="search">Ara</string>
+    <string name="search_hint">Belgede ara</string>
+    <string name="search_next">Sonraki eşleşme</string>
+    <string name="search_previous">Önceki eşleşme</string>
+    <string name="close_search">Aramayı kapat</string>
+    <string name="match_count">%1$d / %2$d</string>
+    <string name="no_matches">Eşleşme yok</string>
+    <string name="share">Paylaş</string>
+    <string name="print">Yazdır / PDF olarak kaydet</string>
+    <string name="more">Diğer seçenekler</string>
+    <string name="open_with">Başka uygulamayla aç</string>
+    <string name="loading">Belge açılıyor…</string>
+    <string name="error_open">Dosya okunamadı: %1$s</string>
+    <string name="file_too_large">Bu dosya çok büyük (%1$s). Açılması yavaş olabilir.</string>
+    <string name="pages_count">%1$d sayfa</string>
+    <string name="sheets_count">%1$d sayfa (çalışma sayfası)</string>
+    <string name="slides_count">%1$d slayt</string>
+    <string name="no_app_to_open">Bunu açabilecek bir uygulama bulunamadı.</string>
+
+    <string name="render_unsupported_title">Bu biçim henüz desteklenmiyor</string>
+    <string name="render_legacy_message">Eski ikili Office dosyaları (.doc, .xls, .ppt) ileriki bir sürümde desteklenecek. Lütfen dosyayı yeni biçimde (.docx, .xlsx, .pptx) kaydedip tekrar deneyin.</string>
+    <string name="render_unknown_message">Dosya türü tanınamadı.</string>
+    <string name="render_error_title">Belge açılamadı</string>
+    <string name="render_image">Resim</string>
+    <string name="render_unsupported_image">Resim (biçim desteklenmiyor)</string>
+    <string name="render_chart">Grafik</string>
+    <string name="render_sheet_truncated">Yalnızca ilk %1$d satır ve %2$d sütun gösteriliyor.</string>
+    <string name="render_slide">Slayt</string>
+    <string name="render_empty">Belge boş.</string>
+</resources>
